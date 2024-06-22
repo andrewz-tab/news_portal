@@ -1,0 +1,1 @@
+<a {{$attributes}} class="nav-item nav-link text-white ">{{$slot}}</a>
